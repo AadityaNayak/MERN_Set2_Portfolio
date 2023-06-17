@@ -33,15 +33,15 @@ function Footer() {
           
             <a
               className='social-icon-link linkedin'
-              href='https://https://github.com/AadityaNayak'
+              href='https://www.linkedin.com/in/aaditya-nayak-an73a8208/'
               target='_blank'
               aria-label='Twitter'
             >
               <i className='fab fa-linkedin' />
             </a>
             <a
-              className='social-icon-link twitter'
-              href='https://www.linkedin.com/in/aaditya-nayak-an73a8208/'
+              className='social-icon-link github'
+              href='https://github.com/AadityaNayak'
               target='_blank'
               aria-label='LinkedIn'
             >
